@@ -36,7 +36,7 @@ Hello! I am a passionate Front-End Web Developer with slight experience in build
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sarfaraj525&show_icons=true&count_private=true)  
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Sarfaraj525&theme=tokyonight&hide_border=true)
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Sarfaraj525) 
 
 
 
