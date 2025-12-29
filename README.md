@@ -1,4 +1,4 @@
-![Front-End Developer]![I am GitHub Readme Generator's creator](https://media.licdn.com/dms/image/v2/D4D16AQGvFclMTZTHhw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1714713201257?e=1768435200&v=beta&t=Ti40vDUvr0HGUzxFty3xHE6lbrgNoT0oL5AT4oNlm0U)
+![I am GitHub Readme Generator's creator](https://media.licdn.com/dms/image/v2/D4D16AQGvFclMTZTHhw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1714713201257?e=1768435200&v=beta&t=Ti40vDUvr0HGUzxFty3xHE6lbrgNoT0oL5AT4oNlm0U)
 
 
 ### Hi there 👋, I am Sarfaraj Nawaz Chowdhury
