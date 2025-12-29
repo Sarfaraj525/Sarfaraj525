@@ -37,8 +37,7 @@ Hello! I am a passionate Front-End Web Developer with slight experience in build
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Sarfaraj525/contributions?format=svg&private=false)  
 
 ![GitHub metrics](https://metrics.lecoq.io/Sarfaraj525)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Sarfaraj525)  
+ 
 
 
 
