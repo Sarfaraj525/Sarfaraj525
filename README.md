@@ -32,15 +32,13 @@ Hello! I am a passionate Front-End Web Developer with slight experience in build
 
 ## 🏆 GitHub Stats
 
-## 🏆 GitHub Stats
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Sarfaraj525)  
 
-<img src="https://github-profile-trophy.vercel.app/?username=Sarfaraj525&theme=flat&no-frame=true&v=1" />
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Sarfaraj525/contributions?format=svg&private=false)  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarfaraj525&layout=compact&v=1" />
+![GitHub metrics](https://metrics.lecoq.io/Sarfaraj525)  
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sarfaraj525&show_icons=true&v=1" />
-
-<img src="https://streak-stats.demolab.com/?user=Sarfaraj525&v=1" />
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Sarfaraj525)  
 
 
 
