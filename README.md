@@ -32,13 +32,16 @@ Hello! I am a passionate Front-End Web Developer with slight experience in build
 
 ## 🏆 GitHub Stats
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=Sarfaraj525&theme=onedark&margin-w=10&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+## 🏆 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarfaraj525&layout=compact&theme=onedark&cache_seconds=1800)
+<img src="https://github-profile-trophy.vercel.app/?username=Sarfaraj525&theme=flat&no-frame=true&v=1" />
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sarfaraj525&show_icons=true&theme=onedark&cache_seconds=1800)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarfaraj525&layout=compact&v=1" />
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Sarfaraj525&theme=onedark)
+<img src="https://github-readme-stats.vercel.app/api?username=Sarfaraj525&show_icons=true&v=1" />
+
+<img src="https://streak-stats.demolab.com/?user=Sarfaraj525&v=1" />
+
 
 
 
